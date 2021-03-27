@@ -12,7 +12,8 @@
     {
         "name": "Sacred Chao",
         "allyCode": "389715376",
-        "tagIdOnDrop": "547369143075209217"
+        "tagIdOnDrop": "547369143075209217",
+        "tagIdOnClimb": "547369143075209217"
     },
     {
         "name": "Clem KB24",
